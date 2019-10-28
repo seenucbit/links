@@ -1,1 +1,3 @@
 https://github.com/adashofdata/nlp-in-python-tutorial
+
+http://www.informit.com/articles/article.aspx?p=1278986 #Regex expressions
