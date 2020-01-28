@@ -1,3 +1,17 @@
 ##Could not install packages due to an EnvironmentError: [WinError 5] Access is denied:
 - pip3 install --upgrade tensorflow-gpu --user
 - run the same command using '--user'
+install visual studio
+C:\windows\system32>where python
+C:\Users\Sri\AppData\Local\Programs\Python\Python37\python.exe
+C:\windows\system32>pip3 install -U pip virtualenv --user
+C:\windows\system32>virtualenv --system-site-packages -p python ./venv
+C:\Users\Sri\AppData\Roaming\Python\Python37\Scripts>.\venv\Scripts\activate
+(venv) C:\Users\Sri\AppData\Roaming\Python\Python37\Scripts>pip install rasa
+(venv) C:\Users\Sri\AppData\Roaming\Python\Python37\Scripts>pip install sanic-plugins-framework==0.8.2
+
+
+____For rasa_core_____
+pip install -r requirements.txt
+cd rasa_core_path
+pip install -e .
