@@ -2,6 +2,7 @@
 - pip3 install --upgrade tensorflow-gpu --user
 - run the same command using '--user'
 install visual studio
+visualcppbuildtools_full.exe
 C:\windows\system32>where python
 C:\Users\Sri\AppData\Local\Programs\Python\Python37\python.exe
 C:\windows\system32>pip3 install -U pip virtualenv --user
