@@ -11,6 +11,9 @@ C:\Users\Sri\AppData\Roaming\Python\Python37\Scripts>.\venv\Scripts\activate
 (venv) C:\Users\Sri\AppData\Roaming\Python\Python37\Scripts>pip install rasa
 (venv) C:\Users\Sri\AppData\Roaming\Python\Python37\Scripts>pip install sanic-plugins-framework==0.8.2
 
+https://github.com/RasaHQ/tutorial-rasa-alexa
+https://www.youtube.com/watch?v=UpyxLGc3IcI
+
 
 ____For rasa_core_____
 pip install -r requirements.txt
